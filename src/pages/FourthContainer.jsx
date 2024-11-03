@@ -19,7 +19,7 @@ const FourthContainer = () => {
         <Card src={t2cimg3} bullet1="Support through mergers, demergers, buybacks, and financial restructuring." bullet2="Guidance on investment strategies for optimal business growth." bullet3="" bullet4="" imagecontext="Corporate Finance" height="497px"/>
 
 
-        <Card src={t2cimg4} bullet1=" Support through mergers, demergers, buybacks, and financial restructuring.Market trend analysis and competitor insights." bullet3="Market trend analysis and competitor insights." bullet4="Advising on joint ventures, exit strategies, and long-term growth planning." imagecontext="Restructuring & Strategic Advisory" height="497px"/>
+        <Card src={t2cimg4} bullet1=" Support through mergers, demergers, buybacks, and financial restructuring.Market trend analysis and competitor insights." bullet2="Market trend analysis and competitor insights." bullet3="Market trend analysis and competitor insights." bullet4="Advising on joint ventures, exit strategies, and long-term growth planning." imagecontext="Restructuring & Strategic Advisory" height="497px"/>
 
 
 
