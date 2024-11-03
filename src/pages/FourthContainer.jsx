@@ -7,7 +7,7 @@ const FourthContainer = () => {
     return <div className="sm:pt-[91px] pt-[40px] bg-[#F5F4FE] lg:px-[64px] md:px-[46px] sm:px-[30px] px-4 py-[14px]">
 
 
-        <h1 className="mb-[60px] xl:text-[64px] lg:text-[42px] md:text-[32px] sm:text-[25px] text-[18px] font-bold text-[#212121] max-w-[884px] leading-[88px]">Investment Banking & Capital Advisory Services</h1>
+        <h1 className="mb-[60px] xl:text-[64px] lg:text-[42px] md:text-[32px] sm:text-[25px] text-[18px] font-bold text-[#212121] max-w-[884px] md:leading-[88px]">Investment Banking & Capital Advisory Services</h1>
 
 
         <div className="flex justify-evenly flex-wrap gap-[10px]">
